@@ -11,7 +11,7 @@
 # /src/material-examples/example-module.ts
 
 # dependencies
-node_modules
+node_modules/
 /bower_components
 
 # Dart
@@ -23,7 +23,7 @@ node_modules
 /src/.packages
 /src/packages
 /src/pubspec.lock
-
+*.bak
 
 # IDEs
 /.idea
